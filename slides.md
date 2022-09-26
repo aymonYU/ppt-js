@@ -59,10 +59,13 @@ layout: section
 1. babel(环境：node), ebuild(环境：go), swc(环境：rust)
 
 2. js环境编译器， acorn（小巧，babel前期代码也是基于这个库），exprima 等等
-<img src="/img/parser.png">
 
 ### ast 定义标准
 https://github.com/estree/estree
+
+
+<img src="/img/parser.png">
+
 
 ---
 
@@ -267,5 +270,3 @@ https://zhuanlan.zhihu.com/p/539725089
 1. 终身学习
 
 2. 了解一些原理性的东西，有利于定位，分析问题
-
----
